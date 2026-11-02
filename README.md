@@ -67,3 +67,8 @@ The `Sales_Data` sheet contains 2,000 rows of sample 2026 sales data.
 ## Tools
 
 Microsoft Excel – Pivot Tables, Pivot Charts, Slicers, Timeline
+
+## Files
+
+- 📊 [Excel workbook](Sales_Performance_Dashboard.xlsx)
+- 🖼️ [Dashboard preview](sales_performance_dashboard.png)

@@ -11,6 +11,9 @@ An interactive **sales performance dashboard** built in Excel. It summarizes 2,0
 | Average revenue per order | 1,731 |
 | Total quantity sold | 7,552 |
 
+![Dashboard](sales_performance_dashboard.png)
+
+📥 [Excel dosyasını indir](Sales_Performance_Dashboard.xlsx)
 ## Dashboard Contents
 
 - **Monthly revenue trend** (line chart)
